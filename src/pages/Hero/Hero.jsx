@@ -10,7 +10,7 @@ const apps = [
   { id: 5, title: "Time Planner: Schedule & Tasks", img:"/src/assets/Planer.png", downloads: "9M", rating: "5" },
   { id: 6, title: "Morning Habits - Daily Routine", img:"/src/assets/Moring.png", downloads: "9M", rating: "5" },
   { id: 7, title: "Focus Plant: Pomodoro Forest", img:"/src/assets/demo-app (2).webp", downloads: "9M", rating: "5" },
-  { id: 8, title: "Alarmy - Alarm Clock & Sleep", img:"/src/assets/reminder.png", downloads: "9M", rating: "5" },
+  { id: 8, title: "Alarmy - Alarm Clock & Sleep", img:"../../assets/reminder.png", downloads: "9M", rating: "5" },
 ];
 
 const Hero = () => {
