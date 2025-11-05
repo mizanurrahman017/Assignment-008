@@ -9,18 +9,18 @@ const Banner = () => {
       
       
 
-      {/* মূল হেডিং */}
+    
       <h1 className="text-4xl md:text-5xl font-bold text-gray-900 leading-tight">
         We Build{" "}
         <span className="text-purple-600">Productive</span> Apps
       </h1>
 
-      {/* সাবহেডিং / বর্ণনা */}
+ 
       <p className="text-gray-600 mt-4 max-w-2xl">
         <span className="font-semibold">HERO.IO</span> we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.Our goal is to turn your ideas into digital experiences that truly make an impact.।
       </p>
 
-      {/* বোতাম (Google Play & App Store) */}
+      
       <div className="flex flex-wrap justify-center gap-4 mt-8">
         <a
           href="#"

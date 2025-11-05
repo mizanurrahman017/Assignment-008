@@ -3,13 +3,13 @@ import { FaStar, FaDownload } from "react-icons/fa";
 import { Link } from "react-router";
 
 const apps = [
-  { id: 1, title: "Forest: Focus For Productivity",img:"/src/assets/demo-app (2).webp", downloads: "9M", rating: "5" },
-  { id: 2, title: "SmPlan: ToDo List With Reminder", img:"/src/assets/reminder.png",  downloads: "9M", rating: "5" },
-  { id: 3, title: "FLIP - Focus Timer For Study", img:"/src/assets/study.png",  downloads: "9M", rating: "5" },
-  { id: 4, title: "Pomocat - Cute Pomodoro Timer", img:"/src/assets/demo-app (1).webp", downloads: "9M", rating: "5" },
-  { id: 5, title: "Time Planner: Schedule & Tasks", img:"/src/assets/Planer.png", downloads: "9M", rating: "5" },
-  { id: 6, title: "Morning Habits - Daily Routine", img:"/src/assets/Moring.png", downloads: "9M", rating: "5" },
-  { id: 7, title: "Focus Plant: Pomodoro Forest", img:"/src/assets/demo-app (2).webp", downloads: "9M", rating: "5" },
+  { id: 1, title: "Forest: Focus For Productivity",img:"../../assets/demo-app.webp", downloads: "9M", rating: "5" },
+  { id: 2, title: "SmPlan: ToDo List With Reminder", img:"../../assets/reminder.png",  downloads: "9M", rating: "5" },
+  { id: 3, title: "FLIP - Focus Timer For Study", img:"../../assets/study.png",  downloads: "9M", rating: "5" },
+  { id: 4, title: "Pomocat - Cute Pomodoro Timer", img:"../../assets/demo-app1.webp", downloads: "9M", rating: "5" },
+  { id: 5, title: "Time Planner: Schedule & Tasks", img:"../../assets/Planer.png", downloads: "9M", rating: "5" },
+  { id: 6, title: "Morning Habits - Daily Routine", img:"../../assets/Moring.png", downloads: "9M", rating: "5" },
+  { id: 7, title: "Focus Plant: Pomodoro Forest", img:"../../assets/demo-app.webp", downloads: "9M", rating: "5" },
   { id: 8, title: "Alarmy - Alarm Clock & Sleep", img:"../../assets/reminder.png", downloads: "9M", rating: "5" },
 ];
 
